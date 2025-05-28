@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[My Personal Blog](https://adrianssearch.org).
+[My Personal Blog](https://qwerty.adriansnetwork.org).
 
 # Wardriving (What is it?)
 
