@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[Link to another page](./another-page.html).
+[My Personal Blog](https://adrianssearch.org).
 
 # Wardriving (What is it?)
 
