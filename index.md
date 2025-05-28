@@ -3,10 +3,9 @@ layout: default
 ---
 [My Personal Blog](https://qwerty.adriansnetwork.org).
 
-# Wardriving (What is it?)
+# Postmarket OS  (Is it capable of being a daily driver yet?)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
+with many flavors phosh sxmo gnome mobile i3wm postmarket has it all . 
 ## Header 2
 
 > This is a blockquote following a header.
